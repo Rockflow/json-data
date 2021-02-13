@@ -1,0 +1,2186 @@
+[
+    {
+        "name": "聚BT - 聚合最优质的BT、磁力资源",
+        "url": "http://www.topthink.com/",
+        "ico": "/",
+        "des": "BT、磁力资源 导航",
+        "tags": [ "网站导航" ],
+        "category": "网站导航"
+    },
+    {
+        "name": "OneGO导航",
+        "url": "http://www.topthink.com/",
+        "ico": "/",
+        "des": "在线工具、网盘、资源搜索、账号",
+        "tags": [ "网站导航" ],
+        "category": "网站导航"
+    },
+    {
+        "name": "Locer.io - 专业的主机圈垂直导航",
+        "url": "http://locer.io/",
+        "ico": "/",
+        "des": "VPS、主机导航",
+        "tags": [ "网站导航" ],
+        "category": "网站导航"
+    },
+    {
+        "name": "Affiliate专属导航 - AFFNAV",
+        "url": "https://www.affnav.com/",
+        "ico": "/",
+        "des": "网站导航",
+        "tags": [ "网站导航" ],
+        "category": "网站导航"
+    },
+    {
+        "name": "Affiliate导航 _ 东半球最实用的Affiliate Marketing导航",
+        "url": "https://123.cuihuanghuang.com/",
+        "ico": "/",
+        "des": "网站导航,作者博客：https://cuihuanghuang.com/",
+        "tags": [ "网站导航" ],
+        "category": "网站导航"
+    },
+    {
+        "name": "一为导航 _ 设计师网址导航",
+        "url": "https://nav.iowen.cn/",
+        "ico": "/",
+        "des": "网站导航",
+        "tags": [ "网站导航" ],
+        "category": "网站导航"
+    },
+    {
+        "name": "爱主页",
+        "url": "https://www.i-i.me/",
+        "ico": "/",
+        "des": "个性化网址收藏分享网, 有许多导航站点",
+        "tags": [ "网站导航" ],
+        "category": "网站导航"
+    },
+    {
+        "name": "趣主页",
+        "url": "https://www.quzhuye.com/",
+        "ico": "/",
+        "des": "导航站点, 发现页面有许多站点介绍，挺实用",
+        "tags": [ "网站导航" ],
+        "category": "网站导航"
+    },
+    {
+        "name": "Edui.fun",
+        "url": "https://edui.fun/",
+        "ico": "/",
+        "des": "Edui.fun _ 让教学有点意思, 本导航源码模板使用的是这个",
+        "tags": [ "网站导航" ],
+        "category": "网站导航"
+    },
+    {
+        "name": "萌搜 为小众而搜",
+        "url": "https://mengso.com/",
+        "ico": "/",
+        "des": "一款小众的搜索引擎",
+        "tags": [ "搜索" ],
+        "category": "搜索引擎"
+    },
+    {
+        "name": "知网随问",
+        "url": "https://qa.cnki.net/web/",
+        "ico": "/",
+        "des": "中国知网的搜索,以文献为依托",
+        "tags": [ "搜索" ],
+        "category": "搜索引擎"
+    },
+    {
+        "name": "拨云搜索",
+        "url": "https://www.boyunso.com/",
+        "ico": "/",
+        "des": "拨云搜索 - 专注于小说搜索引擎",
+        "tags": [ "搜索" ],
+        "category": "搜索引擎"
+    },
+    {
+        "name": "LinkFind",
+        "url": "https://linkfind.cn/",
+        "ico": "/",
+        "des": "提供了搜索，相当于一个书签搜索站",
+        "tags": [ "搜索" ],
+        "category": "搜索引擎"
+    },
+    {
+        "name": "只读",
+        "url": "http://www.rdonly.com/",
+        "ico": "/",
+        "des": "更像博客，提供有导航站",
+        "tags": [ "搜索", "网站导航" ],
+        "category": "网站导航"
+    },
+    {
+        "name": "public-apis",
+        "url": "https://github.com/public-apis/public-apis",
+        "ico": "/",
+        "des": "一些api接口",
+        "tags": [ "资源", "API" ],
+        "category": "编程资源"
+    },
+    {
+        "name": "极思维",
+        "url": "http://www.topthink.com/",
+        "ico": "/",
+        "des": "极思维着重于关注、挖掘和成就互联网开发者，并提供相关的资讯、报道、产品和服务，是互联网开发者的首选资讯和服务平台。",
+        "tags": [ "科技资讯" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "屏库",
+        "url": "http://www.panelook.cn/",
+        "ico": "/",
+        "des": "全球液晶屏交易中心",
+        "tags": [ "信息查询" ],
+        "category": "信息查询"
+    },
+    {
+        "name": "Webpage Archive",
+        "url": "https://archive.is/",
+        "ico": "/",
+        "des": "网页历史存档",
+        "tags": [ "工具", "存储" ],
+        "category": "临时存储"
+    },
+    {
+        "name": "CachedView",
+        "url": "http://cachedview.com/",
+        "ico": "/",
+        "des": "Google网页缓存",
+        "tags": [ "工具", "存储" ],
+        "category": "临时存储"
+    },
+    {
+        "name": "G SUITE工具",
+        "url": "https://gsuitetips.com/tools/",
+        "ico": "/",
+        "des": "Google Drive 文件夹复制，团队盘",
+        "tags": [ "工具", "存储" ],
+        "category": "临时存储"
+    },
+    {
+        "name": "世界数字图书馆",
+        "url": "https://www.wdl.org/zh/",
+        "ico": "/",
+        "des": "世界数字图书馆（ WDL ）在互联网上以多语种形式免费提供源于世界各地各文化的重要原始材料。",
+        "tags": [ "知识" ],
+        "category": "文本资源"
+    },
+    {
+        "name": "wikiHow",
+        "url": "https://zh.wikihow.com/",
+        "ico": "/",
+        "des": "wikiHow：你可以信赖的万事指南",
+        "tags": [ "知识" ],
+        "category": "文本资源"
+    },
+    {
+        "name": "搜索下载",
+        "url": "https://search.jayxon.com/",
+        "ico": "/",
+        "des": "他人的Google自定义搜索外皮",
+        "tags": [ "下载", "搜索" ],
+        "category": "搜索引擎"
+    },
+    {
+        "name": "MySearch",
+        "url": "html/search.html",
+        "ico": "/",
+        "des": "我的Google自定义搜索",
+        "tags": [ "搜索", "自定义" ],
+        "category": "自定义"
+    },
+    {
+        "name": "Note",
+        "url": "html/note.html",
+        "ico": "/",
+        "des": "一些开发网站",
+        "tags": [ "note", "自定义" ],
+        "category": "自定义"
+    },
+    {
+        "name": "科学上网",
+        "url": "html/FQ.html",
+        "ico": "/",
+        "des": "科学上网",
+        "tags": [ "自定义" ],
+        "category": "自定义"
+    },
+    {
+        "name": "Unity、UE4",
+        "url": "html/Unity.html",
+        "ico": "/",
+        "des": "收集unity、ue4相关",
+        "tags": [ "自定义" ],
+        "category": "自定义"
+    },
+    {
+        "name": "素材",
+        "url": "html/resouces.html",
+        "ico": "/",
+        "des": "素材",
+        "tags": [ "自定义" ],
+        "category": "自定义"
+    },
+    {
+        "name": "福利",
+        "url": "html/FL.html",
+        "ico": "/",
+        "des": "福利",
+        "tags": [ "自定义" ],
+        "category": "自定义"
+    },
+    {
+        "name": "游资网",
+        "url": "https://www.gameres.com/",
+        "ico": "/",
+        "des": "面向游戏业从业者的一线行业媒体,提供游戏开发、游戏运营、渠道信息、行业新闻、投资建议、项目合作、人才招聘等综合信息。",
+        "tags": [ "游戏资讯" ],
+        "category": "游戏资讯"
+    },
+    {
+        "name": "Searx metasearch engine",
+        "url": "https://searx.me/",
+        "ico": "/",
+        "des": "开源搜索引擎",
+        "tags": [ "搜索" ],
+        "category": "搜索引擎"
+    },
+    {
+        "name": "W3xue首页",
+        "url": "https://www.w3xue.com/",
+        "ico": "/",
+        "des": "W3xue 是一个提供免费教程的地方。在线手册还行，文章大多为转载",
+        "tags": [ "教程" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "CTOLib码库",
+        "url": "https://www.ctolib.com/",
+        "ico": "/",
+        "des": "收集GitHub上的实用开源项目，并进行分类。每天都有新的库和项目添加到列表中。",
+        "tags": [ "Github" ],
+        "category": "Github"
+    },
+    {
+        "name": "Libraries.io",
+        "url": "https://libraries.io/",
+        "ico": "/",
+        "des": "监控GitHub上的一些知名软件，并通过之间的依赖建立联系",
+        "tags": [ "Github" ],
+        "category": "Github"
+    },
+    {
+        "name": "菜鸟教程",
+        "url": "http://www.runoob.com/",
+        "ico": "/",
+        "des": "菜鸟教程提供了基础编程技术教程。",
+        "tags": [ "教程" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "w3school 在线教程",
+        "url": "http://www.w3school.com.cn/index.html",
+        "ico": "/",
+        "des": "在 W3School，你可以找到你所需要的所有的网站建设教程, 手册",
+        "tags": [ "教程" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "w3cschool",
+        "url": "https://www.w3cschool.cn/",
+        "ico": "/",
+        "des": "w3cschool - 编程狮，随时随地学编程, 手册",
+        "tags": [ "教程" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "虫部落搜索",
+        "url": "https://scholar.chongbuluo.com/",
+        "ico": "/",
+        "des": "把各种搜索集合在一起，方便使用",
+        "tags": [ "搜索", "社区" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "Edgeless-强大而优雅的PE工具",
+        "url": "https://home.edgeless.top/",
+        "ico": "/",
+        "des": "支持网络和插件的PE",
+        "tags": [ "系统", "PE" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "WINOS",
+        "url": "https://www.winos.me",
+        "ico": "/",
+        "des": "各种Windows精简系统",
+        "tags": [ "系统" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "twm000",
+        "url": "https://twm000.top/",
+        "ico": "/",
+        "des": "各种Windows精简系统",
+        "tags": [ "系统" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "IT天空",
+        "url": "https://www.itsk.com/forum.php",
+        "ico": "/",
+        "des": "PC各种技术讨论论坛",
+        "tags": [ "技术论坛" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "无忧启动论坛",
+        "url": "http://bbs.wuyou.net/forum.php",
+        "ico": "/",
+        "des": "主要讨论启动技术的论坛",
+        "tags": [ "技术论坛" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "FydeOS",
+        "url": "https://fydeos.com/",
+        "ico": "/",
+        "des": "面向未来的云驱动操作系统 _ 为中国用户打造的 Chrome OS",
+        "tags": [ "系统" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "文叔叔",
+        "url": "https://www.wenshushu.cn/",
+        "ico": "/",
+        "des": "文叔叔是一款可以将任意文件，简单、安全、极速传给你朋友的工具。",
+        "tags": [ "云盘" ],
+        "category": "临时存储"
+    },
+    {
+        "name": "奶牛快传",
+        "url": "https://cowtransfer.com/",
+        "ico": "/",
+        "des": "主打年轻客群的⼤⽂件传输服务商「奶⽜快传」创建于2018年，始终致⼒于提升⽤户体验及效率。",
+        "tags": [ "云盘" ],
+        "category": "临时存储"
+    },
+    {
+        "name": "临时邮箱",
+        "url": "https://www.linshiyouxiang.net/",
+        "ico": "/",
+        "des": "域名后缀：@linshiyouxiang.net、@bestlistbase.com、@meantinc.com、@powerencry.com、@truthfinderlogin.com、@chasefreedomactivate.com、@wellsfargocomcardholders.com",
+        "tags": [ "邮箱" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "YopMail",
+        "url": "http://www.yopmail.com/zh/",
+        "ico": "/",
+        "des": "@yopmail.fr、@yopmail.net、@cool.fr.nf、@jetable.fr.nf、@nospam.ze.tc、@nomail.xl.cx、@mega.zik.dj、@speed.1s.fr、@courriel.fr.nf、@moncourrier.fr.nf、@monemail.fr.nf、@monmail.fr.nf",
+        "tags": [ "邮箱" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "10 Minute Mail",
+        "url": "https://10minutemail.com/?lang=zh_CN",
+        "ico": "/",
+        "des": "@upived.com",
+        "tags": [ "邮箱" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "果核剥壳",
+        "url": "https://www.ghpym.com/",
+        "ico": "/",
+        "des": "软件下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "懒得勤快",
+        "url": "https://masuit.com/",
+        "ico": "/",
+        "des": "软件下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "发烧友绿软",
+        "url": "https://fsylr.com/",
+        "ico": "/",
+        "des": "软件下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "雪域工作室",
+        "url": "http://www.aixueyu.top/",
+        "ico": "/",
+        "des": "电脑和安卓软件的破解、修改和优化，各类电视机顶盒破解修改刷机",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "阿荣福利味",
+        "url": "http://www.azofreeware.com/",
+        "ico": "/",
+        "des": "软件下载,繁体中文",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "耍下",
+        "url": "https://shuax.com/",
+        "ico": "/",
+        "des": "软件下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "乐软博客",
+        "url": "https://www.isharepc.com/",
+        "ico": "/",
+        "des": "作者：阿刚，致力于搜集与分享各种软件资源",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "漫步白月光",
+        "url": "https://www.ccava.net/",
+        "ico": "/",
+        "des": "漫步白月光 - 专注于精品软件分享与下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "老殁",
+        "url": "https://www.mpyit.com/",
+        "ico": "/",
+        "des": "软件下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "潮下载",
+        "url": "http://www.chaoxz.com/",
+        "ico": "/",
+        "des": "软件下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "软体部落",
+        "url": "https://softblog.tw/",
+        "ico": "/",
+        "des": "便携软件",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "老白 _ 个人博客",
+        "url": "https://bai.okduang.com/",
+        "ico": "/",
+        "des": "系统，软件，密钥，网站分享",
+        "tags": [ "博客", "软件下载" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "醉生梦死",
+        "url": "https://junlin.li/",
+        "ico": "/",
+        "des": "有软件下载地址：http://soft.junlin.li/",
+        "tags": [ "博客", "软件下载" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "Aneeo Blog",
+        "url": "https://aneeo.com/",
+        "ico": "/",
+        "des": "Aneeo Blog – 何以解忧，唯有暴富！",
+        "tags": [ "博客", "软件下载", "福利" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "重灌狂人",
+        "url": "https://briian.com/",
+        "ico": "/",
+        "des": "软件下载, 繁体中文",
+        "tags": [ "软件下载" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "winPenPack",
+        "url": "http://www.winpenpack.com/en/index.php",
+        "ico": "/",
+        "des": "便携软件",
+        "tags": [ "软件下载", "便携软件" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "PortableAppS",
+        "url": "http://portableapps.com/",
+        "ico": "/",
+        "des": "便携软件",
+        "tags": [ "软件下载", "便携软件" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "PortableAppZ",
+        "url": "http://portableappz.blogspot.com/",
+        "ico": "/",
+        "des": "便携软件",
+        "tags": [ "软件下载", "便携软件" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "P.AppZ版权",
+        "url": "http://portableapptrash.blogspot.com/",
+        "ico": "/",
+        "des": "便携软件",
+        "tags": [ "软件下载", "便携软件" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "Iportable",
+        "url": "https://blog.iportable.in/",
+        "ico": "/",
+        "des": "便携软件",
+        "tags": [ "软件下载", "便携软件" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "FreeWare",
+        "url": "http://freetopsoft.net/index.php",
+        "ico": "/",
+        "des": "便携软件",
+        "tags": [ "软件下载", "便携软件" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "BALTAGY",
+        "url": "https://baltagy1.blogspot.hk/",
+        "ico": "/",
+        "des": "便携软件",
+        "tags": [ "软件下载", "便携软件" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "Portable info PL",
+        "url": "https://portable.info.pl/",
+        "ico": "/",
+        "des": "便携软件",
+        "tags": [ "软件下载", "便携软件" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "CRACKSurl _ The Ultimate Software Hub",
+        "url": "https://cracksurl.com/",
+        "ico": "/",
+        "des": "国外软件破解",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "麦田一棵葱",
+        "url": "https://www.52maicong.com",
+        "ico": "/",
+        "des": "软件下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "反斗软件",
+        "url": "http://www.apprcn.com/",
+        "ico": "/",
+        "des": "各种新奇小软件",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "异星软件",
+        "url": "http://www.yxssp.com/",
+        "ico": "/",
+        "des": "主要分享安卓软件",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "云梦",
+        "url": "https://www.htcp.net/",
+        "ico": "/",
+        "des": " 一个分享 Android_Linux_Windows 经验的网站",
+        "tags": [ "博客" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "老司机伊甸园",
+        "url": "https://la4ji.blogspot.com/",
+        "ico": "/",
+        "des": "防止和谐的搬运收藏，杂七杂八",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "奇跡の海",
+        "url": "http://www.seaomc.com/",
+        "ico": "/",
+        "des": "软件下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "USB迷",
+        "url": "http://www.usbmi.com",
+        "ico": "/",
+        "des": "软件下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "423Down",
+        "url": "https://www.423down.com/",
+        "ico": "/",
+        "des": "软件下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "Download Pirate",
+        "url": "https://www.downloadpirate.com/",
+        "ico": "/",
+        "des": "国外软件破解下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "REPACK.ME",
+        "url": "https://repack.me/",
+        "ico": "/",
+        "des": "国外软件破解下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "Get Into PC",
+        "url": "https://igetintopc.com/",
+        "ico": "/",
+        "des": "国外软件破解下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "PortableAppK",
+        "url": "https://portableappk.com/",
+        "ico": "/",
+        "des": "国内便携软件，但是要收费",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "剑客网",
+        "url": "https://www.go176.net/",
+        "ico": "/",
+        "des": "软件下载,还有一些游戏",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "小众软件",
+        "url": "https://www.appinn.com/",
+        "ico": "/",
+        "des": "小众软件是一个分享免费、小巧、有趣、实用软件的网站",
+        "tags": [ "软件推荐" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "异次元软件",
+        "url": "http://www.iplaysoft.com/",
+        "ico": "/",
+        "des": "一个致力推广优秀应用软件与互联网资源的网站",
+        "tags": [ "软件推荐" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "th_sjy",
+        "url": "https://www.th-sjy.com/",
+        "ico": "/",
+        "des": "非营利性质、免费的汉化和资源测试网站",
+        "tags": [ "软件汉化" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "汉化新世纪",
+        "url": "https://www.hanzify.org/",
+        "ico": "/",
+        "des": "介绍和引荐国外优秀软件，推动国外软件的本土化",
+        "tags": [ "软件汉化" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "C4DSKY",
+        "url": "https://c4dsky.com/",
+        "ico": "/",
+        "des": "C4DSKY_书生CG资源站 _ C4D教程AE模板PR模板FCPX插件书生汉化交流免费下载",
+        "tags": [ "资源" ],
+        "category": "综合资源"
+    },
+    {
+        "name": "LookAE",
+        "url": "http://www.lookae.com/",
+        "ico": "/",
+        "des": "各种影视、建模软件及资源，大多需要购买",
+        "tags": [ "资源" ],
+        "category": "综合资源"
+    },
+    {
+        "name": "无作为",
+        "url": "https://www.w168.net/",
+        "ico": "/",
+        "des": "分享软件、福利、网赚",
+        "tags": [ "博客" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "鱼·后花园",
+        "url": "https://blog.iccfish.com/",
+        "ico": "/",
+        "des": "个人博客，有开发的软件：订票助手.NET",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "厘米天空",
+        "url": "http://www.cmsky.com/",
+        "ico": "/",
+        "des": "绿色软件与IT资源分享",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "chermy",
+        "url": "https://chermy.blogspot.com/",
+        "ico": "/",
+        "des": "软件下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "AlternativeTo",
+        "url": "https://alternativeto.net/",
+        "ico": "/",
+        "des": "相似软件推荐",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "老毛子",
+        "url": "https://lrepacks.ru/",
+        "ico": "/",
+        "des": "俄罗斯软件破解",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "downloadly",
+        "url": "https://downloadly.ir/",
+        "ico": "/",
+        "des": "国外软件破解下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "Mobilism",
+        "url": "https://forum.mobilism.org/index.php",
+        "ico": "/",
+        "des": "国外安卓软件破解",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "PiratePC",
+        "url": "https://piratepc.co/",
+        "ico": "/",
+        "des": "国外软件破解下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "up4pc",
+        "url": "https://up4pc.com/",
+        "ico": "/",
+        "des": "国外软件破解下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "微当下载",
+        "url": "https://www.weidown.com/",
+        "ico": "/",
+        "des": "软件下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "Portapps",
+        "url": "https://portapps.io/apps/",
+        "ico": "/",
+        "des": "便携软件下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "推酷",
+        "url": "http://www.tuicool.com/",
+        "ico": "/",
+        "des": "推酷 - IT人专属的个性聚合阅读社区",
+        "tags": [ "科技资讯" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "雅兮网",
+        "url": "http://www.iyaxi.com/",
+        "ico": "/",
+        "des": "杂七杂八",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "SegmentFault 思否",
+        "url": "https://segmentfault.com/",
+        "ico": "/",
+        "des": "问答、资讯、专栏，IT领域",
+        "tags": [ "社区" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "V2EX",
+        "url": "https://www.v2ex.com/",
+        "ico": "/",
+        "des": "V2EX 是创意工作者们的社区。",
+        "tags": [ "社区" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "开发者头条",
+        "url": "https://toutiao.io/",
+        "ico": "/",
+        "des": "可以搜索到许多微信公众号的文章，搜索比较重要",
+        "tags": [ "资料" ],
+        "category": "编程知识"
+    },
+    {
+        "name": "码农网",
+        "url": "https://www.codercto.com/",
+        "ico": "/",
+        "des": "有部分文章可参考，一些教程和前端工具",
+        "tags": [ "资料" ],
+        "category": "编程知识"
+    },
+    {
+        "name": "码农周刊整理",
+        "url": "https://github.com/nemoTyrant/manong",
+        "ico": "/",
+        "des": "都是2017年前的资料目录，许多失效链接，但还是有一些参考价值",
+        "tags": [ "资料" ],
+        "category": "编程知识"
+    },
+    {
+        "name": "蚂蚁搬书网",
+        "url": "http://www.mybanshu.com/",
+        "ico": "/",
+        "des": "kindle资源分享",
+        "tags": [ "书籍" ],
+        "category": "文本资源"
+    },
+    {
+        "name": "奶牛关",
+        "url": "https://cowlevel.net/featured",
+        "ico": "/",
+        "des": "游戏玩家交流平台",
+        "tags": [ "社区" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "黑鸟博客",
+        "url": "https://guihet.com/",
+        "ico": "/",
+        "des": "作者作品有：黑鸟播放器",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "Jireh 的个人博客",
+        "url": "https://www.lyile.cn/",
+        "ico": "/",
+        "des": "个人博客",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "荒岛-分享创造快乐",
+        "url": "https://lala.im/",
+        "ico": "/",
+        "des": "个人博客",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "博客园",
+        "url": "http://www.cnblogs.com/",
+        "ico": "/",
+        "des": "新闻、专栏、问答综合平台",
+        "tags": [ "社区" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "开源中国",
+        "url": "http://www.oschina.net/",
+        "ico": "/",
+        "des": "开源中国的各种新闻还是不错的",
+        "tags": [ "科技资讯" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "sourceforge",
+        "url": "https://sourceforge.net/",
+        "ico": "/",
+        "des": "开源软件平台",
+        "tags": [ "Github" ],
+        "category": "Github"
+    },
+    {
+        "name": "GitHub",
+        "url": "https://github.com/",
+        "ico": "/",
+        "des": "开源软件平台",
+        "tags": [ "Github" ],
+        "category": "Github"
+    },
+    {
+        "name": "科技猎",
+        "url": "http://www.kejilie.com/",
+        "ico": "/",
+        "des": "精准猎取科技资讯，高效阅读科技新闻_科技猎",
+        "tags": [ "科技资讯" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "存储在线",
+        "url": "http://www.dostor.com/",
+        "ico": "/",
+        "des": "存储在线-全球领先的存储专业媒体",
+        "tags": [ "科技资讯" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "快科技天梯榜",
+        "url": "https://rank.kkj.cn/",
+        "ico": "/",
+        "des": "快科技天梯榜——CPU、显卡榜单排行",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "财富中文网",
+        "url": "https://www.fortunechina.com/",
+        "ico": "/",
+        "des": "财富中文网 - 财富论坛_全球论坛官网 - 集世界500强韬略 铸中国商界精英",
+        "tags": [ "新闻" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "YOKA网-态度创造时尚",
+        "url": "http://www.yoka.com/",
+        "ico": "/",
+        "des": "致力于为中国高端网民提供分享时尚与优质生活的多元化资讯及多样化服务",
+        "tags": [ "新闻" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "科学网",
+        "url": "http://www.sciencenet.cn/",
+        "ico": "/",
+        "des": "科学网—构建全球华人科学社区",
+        "tags": [ "新闻" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "蓝点网",
+        "url": "https://www.landiannews.com/",
+        "ico": "/",
+        "des": "现在主要有科技资讯、还有网址导航",
+        "tags": [ "科技资讯" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "浏览迷",
+        "url": "https://liulanmi.com/",
+        "ico": "/",
+        "des": "专注于浏览器",
+        "tags": [ "软件下载" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "安卓x86中文站",
+        "url": "http://www.x86android.com/",
+        "ico": "/",
+        "des": "可以看看资讯",
+        "tags": [ "科技资讯" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "i黑马",
+        "url": "https://www.iheima.com/",
+        "ico": "/",
+        "des": "有关创业的资讯",
+        "tags": [ "新闻" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "外设天下",
+        "url": "https://www.wstx.com/",
+        "ico": "/",
+        "des": "外设评测、推荐、交流和营销",
+        "tags": [ "社区" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "美国信用卡101",
+        "url": "https://www.uscreditcards101.com/zh/",
+        "ico": "/",
+        "des": "美国信用卡101 – 最详细的北美省钱赚钱技巧",
+        "tags": [ "网赚" ],
+        "category": "福利购物"
+    },
+    {
+        "name": "编程随想的博客",
+        "url": "https://program-think.blogspot.com/",
+        "ico": "/",
+        "des": "个人博客",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "奔跑中的奶酪",
+        "url": "https://www.runningcheese.com/",
+        "ico": "/",
+        "des": "有便携Firefox、Chrome、Edge",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "Hi, DIYgod",
+        "url": "https://diygod.me/",
+        "ico": "/",
+        "des": "rsshub作者",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "电脑玩物",
+        "url": "https://www.playpcesor.com/",
+        "ico": "/",
+        "des": "由 Esor 撰写的云端办公室、数位笔记、时间管理等让人生更美好工作方法",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "羽翼城个人博客",
+        "url": "https://www.dogfight360.com/blog/",
+        "ico": "/",
+        "des": "作品：UsbEAm Hosts Editor、糖豆人匹配区域锁定工具",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "DEFCON笔记",
+        "url": "https://defcon.cn/",
+        "ico": "/",
+        "des": "个人博客",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "挨踢路人甲",
+        "url": "https://walker-a.com/",
+        "ico": "/",
+        "des": "个人博客",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "如有乐享",
+        "url": "http://51.ruyo.net/",
+        "ico": "/",
+        "des": "个人博客,有活动线报和部分主机评测",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "水景一页",
+        "url": "https://cnzhx.net/",
+        "ico": "/",
+        "des": "作者主用 OpenSUSE",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "kn007的个人博客",
+        "url": "https://kn007.net/",
+        "ico": "/",
+        "des": "个人博客",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "HOME PUPBOSS",
+        "url": "https://www.pupboss.com/",
+        "ico": "/",
+        "des": "个人博客",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "荒岛",
+        "url": "https://lala.im/",
+        "ico": "/",
+        "des": "个人博客,有OpenSUSE相关内容",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "哥儿们",
+        "url": "https://geer.men/",
+        "ico": "/",
+        "des": "个人博客",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "央视网",
+        "url": "https://tv.cctv.com/",
+        "ico": "/",
+        "des": "CCTV节目官网, 片库有许多免费影视资源",
+        "tags": [ "视频" ],
+        "category": "视频影视"
+    },
+    {
+        "name": "海兔影院",
+        "url": "http://www.haitudy.com/",
+        "ico": "/",
+        "des": "第三方视频站",
+        "tags": [ "视频" ],
+        "category": "视频影视"
+    },
+    {
+        "name": "低端影视",
+        "url": "https://ddrk.me/",
+        "ico": "/",
+        "des": "第三方视频站, 美剧、英剧、日剧等国外剧集",
+        "tags": [ "视频" ],
+        "category": "视频影视"
+    },
+    {
+        "name": "她的电影网",
+        "url": "http://www.tadedy.com/",
+        "ico": "/",
+        "des": "第三方视频站",
+        "tags": [ "视频" ],
+        "category": "视频影视"
+    },
+    {
+        "name": "酷绘视频",
+        "url": "http://www.kuhuiv.com/",
+        "ico": "/",
+        "des": "第三方视频站",
+        "tags": [ "视频" ],
+        "category": "视频影视"
+    },
+    {
+        "name": "喝茶影视",
+        "url": "http://shoujizhan.cn/",
+        "ico": "/",
+        "des": "第三方视频站",
+        "tags": [ "视频" ],
+        "category": "视频影视"
+    },
+    {
+        "name": "简影",
+        "url": "https://tv.syrme.top/",
+        "ico": "/",
+        "des": "高清1080p影视站",
+        "tags": [ "视频" ],
+        "category": "视频影视"
+    },
+    {
+        "name": "v电影",
+        "url": "https://www.vmovier.com/",
+        "ico": "/",
+        "des": "场库_高品质短片分享平台",
+        "tags": [ "短视频" ],
+        "category": "视频影视"
+    },
+    {
+        "name": "VideoFk",
+        "url": "https://www.videofk.com/",
+        "ico": "/",
+        "des": "VideoFk视频在线解析下载",
+        "tags": [ "下载" ],
+        "category": "视频影视"
+    },
+    {
+        "name": "Pixabay",
+        "url": "https://pixabay.com/",
+        "ico": "/",
+        "des": "Stunning free images & royalty free stock",
+        "tags": [ "图片" ],
+        "category": "图片图库"
+    },
+    {
+        "name": "CleanPNG",
+        "url": "https://www.cleanpng.com/",
+        "ico": "/",
+        "des": "非商用PNG图库",
+        "tags": [ "图片" ],
+        "category": "图片图库"
+    },
+    {
+        "name": "Wallpapers",
+        "url": "https://wallhaven.cc/",
+        "ico": "/",
+        "des": "Awesome Wallpapers",
+        "tags": [ "图片" ],
+        "category": "图片图库"
+    },
+    {
+        "name": "Unsplash",
+        "url": "https://unsplash.com/",
+        "ico": "/",
+        "des": "Beautiful Free Images & Pictures ",
+        "tags": [ "图片" ],
+        "category": "图片图库"
+    },
+    {
+        "name": "CC Search",
+        "url": "https://search.creativecommons.org/",
+        "ico": "/",
+        "des": "Browse over 500 million images, available for reuse",
+        "tags": [ "图片" ],
+        "category": "图片图库"
+    },
+    {
+        "name": "Pngtree",
+        "url": "https://pngtree.com/",
+        "ico": "/",
+        "des": "图片资源，可用作开发资源",
+        "tags": [ "图片资源" ],
+        "category": "图片图库"
+    },
+    {
+        "name": "Piqsels",
+        "url": "https://www.piqsels.com/zh",
+        "ico": "/",
+        "des": "免版税图库，个人和商业免费使用. 其他域名：https://www.pxfuel.com",
+        "tags": [ "图片" ],
+        "category": "图片图库"
+    },
+    {
+        "name": "Scrolller",
+        "url": "https://scrolller.com/art",
+        "ico": "/",
+        "des": "Art _ Scrolller,许多抽象的图",
+        "tags": [ "图片" ],
+        "category": "图片图库"
+    },
+    {
+        "name": "搜图导航",
+        "url": "https://www.91sotu.com/",
+        "ico": "/",
+        "des": "搜图导航 一款强大且智能的设计师导航,集合收费、免费图站",
+        "tags": [ "图片资源" ],
+        "category": "图片图库"
+    },
+    {
+        "name": "Easyicon",
+        "url": "https://www.easyicon.net/",
+        "ico": "/",
+        "des": "图标下载，ICON(SVG_PNG_ICO_ICNS)图标搜索下载, 开发用",
+        "tags": [ "图片资源" ],
+        "category": "图片图库"
+    },
+    {
+        "name": "TablerIcons",
+        "url": "https://tablericons.com/",
+        "ico": "/",
+        "des": "Tabler Icons - 800+ Highly customizable free SVG icons, 开发用",
+        "tags": [ "工具" ],
+        "category": "图片图库"
+    },
+    {
+        "name": "什么值得买",
+        "url": "https://www.smzdm.com/",
+        "ico": "/",
+        "des": "好物爆料推荐",
+        "tags": [ "购物" ],
+        "category": "福利购物"
+    },
+    {
+        "name": "真的值得买",
+        "url": "http://www.zdzdm.com/",
+        "ico": "/",
+        "des": "优惠网站",
+        "tags": [ "购物" ],
+        "category": "福利购物"
+    },
+    {
+        "name": "慢慢买",
+        "url": "http://www.manmanbuy.com/",
+        "ico": "/",
+        "des": "优惠网站",
+        "tags": [ "购物" ],
+        "category": "福利购物"
+    },
+    {
+        "name": "87870虚拟现实网",
+        "url": "http://www.87870.com/",
+        "ico": "/",
+        "des": "VR资讯、游戏库",
+        "tags": [ "VR" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "ARinChina",
+        "url": "http://www.arinchina.com/",
+        "ico": "/",
+        "des": "ARinChina-(AR)增强现实(VR)虚拟现实_AR_VR门户网",
+        "tags": [ "VR" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "国家统计局",
+        "url": "http://www.stats.gov.cn/",
+        "ico": "/",
+        "des": "国家统计局主站, 提供rss服务",
+        "tags": [ "政府网站" ],
+        "category": "政府网站"
+    },
+    {
+        "name": "国家数据",
+        "url": "https://data.stats.gov.cn/index.htm",
+        "ico": "/",
+        "des": "方便查询国家统计局数据库信息",
+        "tags": [ "政府网站" ],
+        "category": "政府网站"
+    },
+    {
+        "name": "IP atdress",
+        "url": "https://whoer.net/",
+        "ico": "/",
+        "des": "查看自己的IP地址",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "WebBrowserTools",
+        "url": "https://webbrowsertools.com/",
+        "ico": "/",
+        "des": "浏览器测试",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "移动芯片性能排行榜",
+        "url": "https://www.socpk.com/",
+        "ico": "/",
+        "des": "手机、移动端CPU、GPU性能排行",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "Linux实用脚本和工具汇总",
+        "url": "https://wzfou.com/linux-jiaoben/",
+        "ico": "/",
+        "des": "挖站否:Linux实用脚本和工具汇总-性能测试,网站监控,服务器宕机,重装系统等工具脚本",
+        "tags": [ "工具", "Linux" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "测速网",
+        "url": "http://www.speedtest.cn/",
+        "ico": "/",
+        "des": "测速网 - 专业网速测试, 游戏测速, 直播测速, 5G测速, 物联网监测",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "BrowserLeaks",
+        "url": "https://www.browserleaks.com/",
+        "ico": "/",
+        "des": "BrowserLeaks - Web Browser Fingerprinting - Browsing Privacy",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "ICOA 在线小工具 · 导航",
+        "url": "https://free.icoa.cn/",
+        "ico": "/",
+        "des": "UA,ip,teacker,ntp,google host,计算器,尺码表等",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "User Agent String",
+        "url": "http://www.useragentstring.com/",
+        "ico": "/",
+        "des": "网站提供许多 UA",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "查询网",
+        "url": "https://www.ip138.com/",
+        "ico": "/",
+        "des": "日历查询、天气、IP、域名等等",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "51tools",
+        "url": "https://51tools.info/",
+        "ico": "/",
+        "des": "加解密、转码、前端工具等",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "Squoosh",
+        "url": "https://squoosh.app/",
+        "ico": "/",
+        "des": "图片压缩",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "Remove Image Backgrounds Fre",
+        "url": "https://burner.bonanza.com/",
+        "ico": "/",
+        "des": "一键移除图片背景",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "remove.bg",
+        "url": "https://www.remove.bg/zh/upload",
+        "ico": "/",
+        "des": "一键移除图片背景",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "在线文字识别",
+        "url": "https://ocr.wdku.net/",
+        "ico": "/",
+        "des": "免费的文字在线识别工具 - 可保留原始格式，提供图像文字识别，提取图片文字，pdf文字识别，扫描文件识别服务、pdf转Word文档服务等",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "爱站网",
+        "url": "https://www.aizhan.com/",
+        "ico": "/",
+        "des": "站长工具",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "站长工具",
+        "url": "http://tool.chinaz.com/",
+        "ico": "/",
+        "des": "站长工具 - 站长之家",
+        "tags": [ "工具" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "VirusTotal",
+        "url": "https://www.virustotal.com/",
+        "ico": "/",
+        "des": "在线病毒检测",
+        "tags": [ "安全" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "Jotti's malware scan",
+        "url": "https://virusscan.jotti.org/",
+        "ico": "/",
+        "des": "在线病毒检测",
+        "tags": [ "安全" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "APKMirror",
+        "url": "https://www.apkmirror.com/",
+        "ico": "/",
+        "des": "APKMirror - Free APK Downloads",
+        "tags": [ "APK" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "APKPure",
+        "url": "https://apkpure.com/",
+        "ico": "/",
+        "des": "使用APKPure APK下载器在线极速下载原版应用",
+        "tags": [ "APK" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "APKCombo",
+        "url": "https://apkcombo.com/zh-us/",
+        "ico": "/",
+        "des": "APKCombo_ ⚡ 下载最新完整包",
+        "tags": [ "APK" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "Chrome扩展下载",
+        "url": "https://chrome-extension-downloader.com/",
+        "ico": "/",
+        "des": "Chrome扩展下载",
+        "tags": [ "CRX" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "Crx4Chrome",
+        "url": "https://www.crx4chrome.com/",
+        "ico": "/",
+        "des": "Chrome扩展下载",
+        "tags": [ "CRX" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "腾讯云大学",
+        "url": "https://cloud.tencent.com/edu/learning/",
+        "ico": "/",
+        "des": "在线学习中心 - 腾讯云大学",
+        "tags": [ "课程" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "微学苑",
+        "url": "http://www.weixueyuan.net/",
+        "ico": "/",
+        "des": "可以当手册用",
+        "tags": [ "资料" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "PS学习网",
+        "url": "http://www.ps-xxw.cn/",
+        "ico": "/",
+        "des": "Photoshop 教程",
+        "tags": [ "教程" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "TechTarget虚拟化",
+        "url": "https://searchvirtual.techtarget.com.cn/",
+        "ico": "/",
+        "des": "TechTarget虚拟化-企业级专业虚拟化网站",
+        "tags": [ "新闻" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "亦是美网络",
+        "url": "http://www.yishimei.cn/",
+        "ico": "/",
+        "des": "亦是美网络 - 致力于操作系统应用与计算机网络技术的IT网站",
+        "tags": [ "博客", "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "Firefox中文社区",
+        "url": "https://www.firefox.net.cn/",
+        "ico": "/",
+        "des": "Mozilla Firefox中文社区",
+        "tags": [ "浏览器" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "计算机研究与发展",
+        "url": "http://crad.ict.ac.cn/",
+        "ico": "/",
+        "des": "可以下载和计算机相关文献期刊",
+        "tags": [ "知识" ],
+        "category": "文本资源"
+    },
+    {
+        "name": "批处理之家",
+        "url": "http://www.bathome.net/",
+        "ico": "/",
+        "des": "批处理之家 批处理_BAT脚本",
+        "tags": [ "论坛" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "系统极客",
+        "url": "https://www.sysgeek.cn/",
+        "ico": "/",
+        "des": "个人博客",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "第一图书网",
+        "url": "http://www.tushu007.com/",
+        "ico": "/",
+        "des": "第一图书网_PDF图书下载",
+        "tags": [ "图书下载" ],
+        "category": "文本资源"
+    },
+    {
+        "name": "电子书分享盘",
+        "url": "https://files-share.herokuapp.com/s1/",
+        "ico": "/",
+        "des": "各种电纸书分享,pdf",
+        "tags": [ "图书下载" ],
+        "category": "文本资源"
+    },
+    {
+        "name": "谷博杂志馆",
+        "url": "http://www.guapi.cn/",
+        "ico": "/",
+        "des": "全球顶级高清晰度、无水印、PDF电子杂志分享",
+        "tags": [ "图书下载" ],
+        "category": "文本资源"
+    },
+    {
+        "name": "慕课网",
+        "url": "https://www.imooc.com/",
+        "ico": "/",
+        "des": "慕课网-程序员的梦工厂",
+        "tags": [ "课程" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "极客学院",
+        "url": "https://www.jikexueyuan.com/",
+        "ico": "/",
+        "des": "中国专业的IT职业在线教育平台",
+        "tags": [ "课程" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "牛客网",
+        "url": "https://www.nowcoder.com/",
+        "ico": "/",
+        "des": "找工作神器_笔试题库_面试经验_实习招聘内推，求职就业一站解决_牛客网",
+        "tags": [ "刷题" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "Codewars",
+        "url": "https://www.codewars.com/",
+        "ico": "/",
+        "des": "Improve your skills by training with others on real code challenges",
+        "tags": [ "刷题" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "LeetCode",
+        "url": "https://leetcode.com/",
+        "ico": "/",
+        "des": "力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台",
+        "tags": [ "刷题" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "网易云课堂",
+        "url": "https://study.163.com/",
+        "ico": "/",
+        "des": "网易云课堂",
+        "tags": [ "课程" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "网易公开课",
+        "url": "https://open.163.com/ted/",
+        "ico": "/",
+        "des": "网易公开课",
+        "tags": [ "课程" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "腾讯课堂",
+        "url": "https://ke.qq.com/",
+        "ico": "/",
+        "des": "腾讯课堂",
+        "tags": [ "课程" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "大学MOOC",
+        "url": "https://www.icourse163.org/",
+        "ico": "/",
+        "des": "中国大学MOOC(慕课)_国家精品课程在线学习平台",
+        "tags": [ "课程", "慕课" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "绿叶学习网",
+        "url": "http://www.lvyestudy.com/",
+        "ico": "/",
+        "des": "前端学习网站",
+        "tags": [ "前端" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "阮一峰博客",
+        "url": "http://www.ruanyifeng.com/blog/archives.html",
+        "ico": "/",
+        "des": "个人博客",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "鸿鹄论坛",
+        "url": "https://bbs.hh010.com/",
+        "ico": "/",
+        "des": "鸿鹄论坛-CCNA,HCIA,思科华为,CCNA题库,CCNA考试,网络工程师论坛,CCIE培训,思科认证,华为认证,思科论坛 ",
+        "tags": [ "论坛" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "远景论坛",
+        "url": "http://www.pcbeta.com/news/",
+        "ico": "/",
+        "des": "新闻资讯 - 远景论坛",
+        "tags": [ "资讯" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "IT营",
+        "url": "https://www.itying.com/",
+        "ico": "/",
+        "des": "IT营_IT全栈视频教程下载学习网,有部分免费教程",
+        "tags": [ "课程" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "果壳",
+        "url": "https://www.guokr.com/",
+        "ico": "/",
+        "des": "果壳 科技有意思,提供负责任的科学、科技主题内容",
+        "tags": [ "新闻" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "黑马程序员官网",
+        "url": "http://yun.itheima.com/",
+        "ico": "/",
+        "des": "传智播客和黑马程序员视频库_传智播客和黑马程序员全套视频教程下载",
+        "tags": [ "课程" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "爱课程",
+        "url": "http://www.icourses.cn/home/",
+        "ico": "/",
+        "des": "爱课程”网是教育部、财政部“十二五”期间启动实施的“高等学校本科教学质量与教学改革工程”委托高等教育出版社建设的高等教育课程资源共享平台。",
+        "tags": [ "课程", "慕课" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "名师讲课视频",
+        "url": "http://www.jialidun.com/video/",
+        "ico": "/",
+        "des": "家里蹲大学 - 公开课讲座视频_远程教育学习网站",
+        "tags": [ "课程" ],
+        "category": "编程教程"
+    },
+    {
+        "name": "DistroWatch",
+        "url": "https://distrowatch.com/",
+        "ico": "/",
+        "des": "查看各种Linux发行版以及他们的更新日期",
+        "tags": [ "Linux" ],
+        "category": "文本资源"
+    },
+    {
+        "name": "Linux就该这么学",
+        "url": "http://www.linuxprobe.com/",
+        "ico": "/",
+        "des": "书籍, 资讯",
+        "tags": [ "Linux" ],
+        "category": "文本资源"
+    },
+    {
+        "name": "LinuxTOY",
+        "url": "https://linuxtoy.org/",
+        "ico": "/",
+        "des": "LinuxTOY 是一个致力于提供 Linux 相关资讯的专题站点。",
+        "tags": [ "新闻", "Linux" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "openSUSE 中文",
+        "url": "https://forum.suse.org.cn/",
+        "ico": "/",
+        "des": "openSUSE 中文爱好者之家",
+        "tags": [ "论坛", "Linux" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "薄荷开源网",
+        "url": "http://www.mintos.org/",
+        "ico": "/",
+        "des": "薄荷开源网 _ 致力于Linux桌面推广",
+        "tags": [ "博客", "Linux" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "小夜博客",
+        "url": "https://www.vpsmm.com/",
+        "ico": "/",
+        "des": "小夜博客 - 香港VPS,美国VPS,香港独立服务器,抗DDOS服务器",
+        "tags": [ "博客", "VPS" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "奶牛博客",
+        "url": "http://www.nenew.net/",
+        "ico": "/",
+        "des": "关注Linux、服务器运维、云服务和互联网的IT技术博客",
+        "tags": [ "博客" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "秋水逸冰",
+        "url": "https://teddysun.com/",
+        "ico": "/",
+        "des": "个人博客",
+        "tags": [ "博客", "Linux" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "中科大Linux协会",
+        "url": "https://lug.ustc.edu.cn/",
+        "ico": "/",
+        "des": "中国科学技术大学 Linux 用户协会",
+        "tags": [ "社区", "Linux" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "pc6a学习分享",
+        "url": "https://pc6a.com/",
+        "ico": "/",
+        "des": "学习Linux技术，宝塔面板安装、问题解决，WordPress教程，分享各类知识",
+        "tags": [ "博客", "Linux" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "主机测评",
+        "url": "https://www.zhujiceping.com/",
+        "ico": "/",
+        "des": "国外主机测评 - 国外VPS，国外服务器，国外主机，测评及优惠码",
+        "tags": [ "VPS" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "主机侦探",
+        "url": "https://www.idcspy.com/",
+        "ico": "/",
+        "des": "国外主机测评 - 国外VPS，国外服务器，国外主机，测评及优惠码",
+        "tags": [ "VPS" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "闲置云服务器vps主机流转平台",
+        "url": "https://www.info2s.com/",
+        "ico": "/",
+        "des": "二手vps买卖平台",
+        "tags": [ "VPS" ],
+        "category": "福利购物"
+    },
+    {
+        "name": "Linux.CN",
+        "url": "https://linux.cn/",
+        "ico": "/",
+        "des": "Linux 中国◆开源社区",
+        "tags": [ "社区", "Linux" ],
+        "category": "科技资讯"
+    },
+    {
+        "name": "草榴社区",
+        "url": "https://www.t66y.com/",
+        "ico": "/",
+        "des": "草榴社区 1024",
+        "tags": [ "成人情报站" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "Porn Dude",
+        "url": "https://theporndude.com/",
+        "ico": "/",
+        "des": "Porn Dude - Best Porn Sites & Free Porn Tubes List of 2020!",
+        "tags": [ "成人情报站" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "门导航",
+        "url": "https://mendh.online/",
+        "ico": "/",
+        "des": "安全纯净的宅男导航",
+        "tags": [ "成人情报站" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "Prime Porn List",
+        "url": "https://www.primepornlist.com//",
+        "ico": "/",
+        "des": "756+ Best Porn Sites of 2020 on the Internet - Prime Porn List ",
+        "tags": [ "成人情报站" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "男人装",
+        "url": "http://enrz.com/",
+        "ico": "/",
+        "des": "男人装官方网站 - 真性情男性杂志！",
+        "tags": [ "新闻" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "第一会所",
+        "url": "http://38.103.161.165/bbs/index.php",
+        "ico": "/",
+        "des": "SiS001! Board",
+        "tags": [ "成人情报站" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "阴茎手册",
+        "url": "https://jiba.plus/",
+        "ico": "/",
+        "des": "阴茎锻炼手册",
+        "tags": [ "成人情报站" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "JavBus",
+        "url": "https://www.javbus.com/",
+        "ico": "/",
+        "des": "JavBus - AV磁力連結分享 - 日本成人影片資料庫",
+        "tags": [ "成人情报站" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "AVSOX",
+        "url": "https://tellme.pw/avsox",
+        "ico": "/",
+        "des": "AVSOX - 你的线上日本无码成人影片情报站。管理你的影片并分享你的想法。",
+        "tags": [ "成人情报站" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "JavLibrary",
+        "url": "http://www.javlibrary.com/",
+        "ico": "/",
+        "des": "欢迎光临JavLibrary，你的线上日本成人影片情报站。 ",
+        "tags": [ "成人情报站" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "ClickMe",
+        "url": "https://clickme.net/",
+        "ico": "/",
+        "des": "成人、二次元等",
+        "tags": [ "成人情报站" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "亚洲漫画走廊",
+        "url": "https://www.asiacomics.com/",
+        "ico": "/",
+        "des": "亚洲福利漫画资源",
+        "tags": [ "成人情报站" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "91porn",
+        "url": "http://91porn.com/",
+        "ico": "/",
+        "des": "",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "JavFinder",
+        "url": "https://javfinder.sh",
+        "ico": "/",
+        "des": "https://javfinder.la/",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "Jav555",
+        "url": "https://www3.jav555.me/",
+        "ico": "/",
+        "des": "DownLoad Jav Porn Free - Japanese Porn, Asian Sex Videos - Jav free, Jav Uncensored",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "Redtube",
+        "url": "https://www.redtube.net/",
+        "ico": "/",
+        "des": "Free Porn Sex Videos",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "Jav Post",
+        "url": "https://www.javpost.net/",
+        "ico": "/",
+        "des": "Watch Free Jav Online Streaming",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "XVIDEOS",
+        "url": "https://www.xvideos.com/",
+        "ico": "/",
+        "des": "免費成人視頻",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "Sex.com",
+        "url": "http://www.sex.com/",
+        "ico": "/",
+        "des": "Free Porn Pics, Porn Gifs and Sex Videos",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "NuVid",
+        "url": "http://www.nuvid.com/",
+        "ico": "/",
+        "des": "New Porno Videos & Free Sex Movies",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "XXX Movies Tube",
+        "url": "http://www.ixxx.com/",
+        "ico": "/",
+        "des": "XXX 电影电视 - 免费色情电影尽在 iXXX.Com",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "vidz72",
+        "url": "http://vidoz8.com/",
+        "ico": "/",
+        "des": "vidoz8.com _ Free Videos HD",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "朱古力",
+        "url": "https://pigav.com/",
+        "ico": "/",
+        "des": "PIGAV 朱古力 – AV線上看",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "SpankBang",
+        "url": "https://spankbang.com/",
+        "ico": "/",
+        "des": "SpankBang_ Free Porn Videos and 4K Sex Movies",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "HPJAV",
+        "url": "https://hpjav.tv/",
+        "ico": "/",
+        "des": "Watch JAV Online, Free JAV, Japanese Porn, Asian Sex Videos HPJAV",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "JavTC",
+        "url": "https://www3.javtc.com/",
+        "ico": "/",
+        "des": "Jav Free Streaming Online HD - Japanese Porn Tube 2020 - JavTC.TV",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "Chaturbate",
+        "url": "https://zh.chaturbate.com/",
+        "ico": "/",
+        "des": "Chaturbate - Free Adult Webcams, Live Sex, Free Sex Chat, Exhibitionist & Pornstar Free Cams",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "MyFreeCams",
+        "url": "https://www.myfreecams.com",
+        "ico": "/",
+        "des": "MyFreeCams - The #1 adult webcam community",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "Jav Stream",
+        "url": "https://javstream.us/",
+        "ico": "/",
+        "des": "Jav Stream - Jav Streaming Online Free",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "Avgle",
+        "url": "https://avgle.com/",
+        "ico": "/",
+        "des": "成人视频",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "番号鸽",
+        "url": "https://www.javdove.com/",
+        "ico": "/",
+        "des": "成人视频",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "Netflav",
+        "url": "https://netflav.com/",
+        "ico": "/",
+        "des": "Netflav - 讓您在線上觀賞日本成人電影",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "Javopen",
+        "url": "https://javopen.co/",
+        "ico": "/",
+        "des": "Jav Online Free, Free JAV, Asian Sex Videos, Jav HD, Japan Porn",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    },
+    {
+        "name": "18porn",
+        "url": "https://18porn.cc/",
+        "ico": "/",
+        "des": "中文成人手機娛樂網站 提供免費在線 高畫質成人影片",
+        "tags": [ "成人" ],
+        "category": "成人资源"
+    }
+]
