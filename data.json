@@ -2182,5 +2182,13 @@
         "des": "中文成人手機娛樂網站 提供免費在線 高畫質成人影片",
         "tags": [ "成人" ],
         "category": "成人资源"
+    },
+    {
+        "name": "影子论坛",
+        "url": "https://shadowq.com/forum.php",
+        "ico": "/",
+        "des": "windows, app 软件资源分享, 一些在线工具讨论",
+        "tags": [ "资源分享" ],
+        "category": "论坛社区"
     }
 ]
