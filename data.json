@@ -2190,5 +2190,13 @@
         "des": "windows, app 软件资源分享, 一些在线工具讨论",
         "tags": [ "资源分享" ],
         "category": "论坛社区"
+    },
+    {
+        "name": "搜索开源项目",
+        "url": "https://www.findbestopensource.com/",
+        "ico": "/",
+        "des": "找到跨平台开源项目的平台",
+        "tags": [ "开源项目" ],
+        "category": "Github"
     }
 ]
