@@ -328,6 +328,22 @@
         "category": "软件工具"
     },
     {
+        "name": "Windsys Project",
+        "url": "https://windsys.whatk.me/",
+        "ico": "/",
+        "des": "这是一个想要让系统变得更方便、好用的非盈利 Project, https://latest10.win :基于最新win10镜像自动精简构建的开源项目",
+        "tags": [ "系统" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "ThirdWIN",
+        "url": "https://third.win/",
+        "ico": "/",
+        "des": "一个分享第三方社区 Windows 系统的部落",
+        "tags": [ "系统" ],
+        "category": "软件工具"
+    },
+    {
         "name": "IT天空",
         "url": "https://www.itsk.com/forum.php",
         "ico": "/",
