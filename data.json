@@ -309,7 +309,7 @@
         "ico": "/",
         "des": "支持网络和插件的PE",
         "tags": [ "系统", "PE" ],
-        "category": "软件工具"
+        "category": "系统PE"
     },
     {
         "name": "WINOS",
@@ -317,7 +317,7 @@
         "ico": "/",
         "des": "各种Windows精简系统",
         "tags": [ "系统" ],
-        "category": "软件工具"
+        "category": "系统PE"
     },
     {
         "name": "twm000",
@@ -325,7 +325,7 @@
         "ico": "/",
         "des": "各种Windows精简系统",
         "tags": [ "系统" ],
-        "category": "软件工具"
+        "category": "系统PE"
     },
     {
         "name": "Windsys Project",
@@ -333,7 +333,7 @@
         "ico": "/",
         "des": "这是一个想要让系统变得更方便、好用的非盈利 Project, https://latest10.win :基于最新win10镜像自动精简构建的开源项目",
         "tags": [ "系统" ],
-        "category": "软件工具"
+        "category": "系统PE"
     },
     {
         "name": "ThirdWIN",
@@ -341,7 +341,15 @@
         "ico": "/",
         "des": "一个分享第三方社区 Windows 系统的部落",
         "tags": [ "系统" ],
-        "category": "软件工具"
+        "category": "系统PE"
+    },
+    {
+        "name": "FydeOS",
+        "url": "https://fydeos.com/",
+        "ico": "/",
+        "des": "面向未来的云驱动操作系统 _ 为中国用户打造的 Chrome OS",
+        "tags": [ "系统" ],
+        "category": "系统PE"
     },
     {
         "name": "IT天空",
@@ -358,14 +366,6 @@
         "des": "主要讨论启动技术的论坛",
         "tags": [ "技术论坛" ],
         "category": "论坛社区"
-    },
-    {
-        "name": "FydeOS",
-        "url": "https://fydeos.com/",
-        "ico": "/",
-        "des": "面向未来的云驱动操作系统 _ 为中国用户打造的 Chrome OS",
-        "tags": [ "系统" ],
-        "category": "软件工具"
     },
     {
         "name": "文叔叔",
@@ -1069,7 +1069,23 @@
         "ico": "/",
         "des": "美国信用卡101 – 最详细的北美省钱赚钱技巧",
         "tags": [ "网赚" ],
-        "category": "福利购物"
+        "category": "福利线报"
+    },
+    {
+        "name": "福利巢",
+        "url": "https://www.fulichao.com/",
+        "ico": "/",
+        "des": "线报网站",
+        "tags": [ "线报" ],
+        "category": "福利线报"
+    },
+    {
+        "name": "浩然资源分享",
+        "url": "https://www.haoranacg.com/",
+        "ico": "/",
+        "des": "绅士游戏、图文资源分享",
+        "tags": [ "绅士" ],
+        "category": "福利线报"
     },
     {
         "name": "编程随想的博客",
@@ -1341,7 +1357,7 @@
         "ico": "/",
         "des": "好物爆料推荐",
         "tags": [ "购物" ],
-        "category": "福利购物"
+        "category": "购物折扣"
     },
     {
         "name": "真的值得买",
@@ -1349,7 +1365,7 @@
         "ico": "/",
         "des": "优惠网站",
         "tags": [ "购物" ],
-        "category": "福利购物"
+        "category": "购物折扣"
     },
     {
         "name": "慢慢买",
@@ -1357,15 +1373,15 @@
         "ico": "/",
         "des": "优惠网站",
         "tags": [ "购物" ],
-        "category": "福利购物"
+        "category": "购物折扣"
     },
     {
-        "name": "福利巢",
-        "url": "https://www.fulichao.com/",
+        "name": "闲置云服务器vps主机流转平台",
+        "url": "https://www.info2s.com/",
         "ico": "/",
-        "des": "线报网站",
-        "tags": [ "线报" ],
-        "category": "福利购物"
+        "des": "二手vps买卖平台",
+        "tags": [ "VPS" ],
+        "category": "购物折扣"
     },
     {
         "name": "87870虚拟现实网",
@@ -1918,14 +1934,6 @@
         "des": "国外主机测评 - 国外VPS，国外服务器，国外主机，测评及优惠码",
         "tags": [ "VPS" ],
         "category": "个人博客"
-    },
-    {
-        "name": "闲置云服务器vps主机流转平台",
-        "url": "https://www.info2s.com/",
-        "ico": "/",
-        "des": "二手vps买卖平台",
-        "tags": [ "VPS" ],
-        "category": "福利购物"
     },
     {
         "name": "Linux.CN",
