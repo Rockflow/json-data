@@ -72,6 +72,14 @@
         "category": "网站导航"
     },
     {
+        "name": "只读",
+        "url": "http://www.rdonly.com/",
+        "ico": "/",
+        "des": "更像博客，提供有导航站",
+        "tags": [ "搜索", "网站导航" ],
+        "category": "网站导航"
+    },
+    {
         "name": "萌搜 为小众而搜",
         "url": "https://mengso.com/",
         "ico": "/",
@@ -104,12 +112,12 @@
         "category": "搜索引擎"
     },
     {
-        "name": "只读",
-        "url": "http://www.rdonly.com/",
+        "name": "果核剥壳",
+        "url": "https://www.ghxi.com/",
         "ico": "/",
-        "des": "更像博客，提供有导航站",
-        "tags": [ "搜索", "网站导航" ],
-        "category": "网站导航"
+        "des": "软件下载",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
     },
     {
         "name": "public-apis",
@@ -174,6 +182,14 @@
         "des": "wikiHow：你可以信赖的万事指南",
         "tags": [ "知识" ],
         "category": "文本资源"
+    },
+    {
+        "name": "Win 10 release info",
+        "url": "https://docs.microsoft.com/en-us/windows/release-health/release-information",
+        "ico": "/",
+        "des": "windows 相关版本、补丁更新发布日期等信息",
+        "tags": [ "微软" ],
+        "category": "Windows官方"
     },
     {
         "name": "搜索下载",
@@ -312,6 +328,14 @@
         "category": "系统PE"
     },
     {
+        "name": "USBOS",
+        "url": "http://bbs.pcbeta.com/viewthread-1873441-1-1.html",
+        "ico": "/",
+        "des": "更新了好几年的PE，比较可靠。无忧地址：http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965",
+        "tags": [ "系统", "PE" ],
+        "category": "系统PE"
+    },
+    {
         "name": "WINOS",
         "url": "https://www.winos.me",
         "ico": "/",
@@ -408,18 +432,18 @@
         "category": "在线工具"
     },
     {
-        "name": "果核剥壳",
-        "url": "https://www.ghpym.com/",
+        "name": "懒得勤快",
+        "url": "https://masuit.com/",
         "ico": "/",
         "des": "软件下载",
         "tags": [ "软件下载" ],
         "category": "软件工具"
     },
     {
-        "name": "懒得勤快",
-        "url": "https://masuit.com/",
+        "name": "深蓝软件",
+        "url": "https://slsup.com/",
         "ico": "/",
-        "des": "软件下载",
+        "des": "深蓝个人网站-专助进取，共享互助。软件定制，网吧防逃费，游戏菜单，专业绿色软件）",
         "tags": [ "软件下载" ],
         "category": "软件工具"
     },
@@ -640,11 +664,11 @@
         "category": "个人博客"
     },
     {
-        "name": "奇跡の海",
-        "url": "http://www.seaomc.com/",
+        "name": "MacWk",
+        "url": "https://www.macwk.com/",
         "ico": "/",
-        "des": "软件下载",
-        "tags": [ "软件下载" ],
+        "des": "精品mac软件下载, 主要是 mac 苹果的软件",
+        "tags": [ "软件下载", "苹果"],
         "category": "软件工具"
     },
     {
@@ -845,6 +869,22 @@
         "ico": "/",
         "des": "便携软件下载",
         "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "亦是美网络",
+        "url": "http://www.yishimei.cn/",
+        "ico": "/",
+        "des": "亦是美网络 - 致力于操作系统应用与计算机网络技术的IT网站",
+        "tags": [ "博客", "软件下载" ],
+        "category": "软件工具"
+    },
+    {
+        "name": "小可博客",
+        "url": "https://www.qkeke.com/",
+        "ico": "/",
+        "des": "一些软件、kms服务",
+        "tags": [ "博客", "软件下载" ],
         "category": "软件工具"
     },
     {
@@ -1200,6 +1240,14 @@
         "category": "视频影视"
     },
     {
+        "name": "奈菲影视",
+        "url": "https://www.nfmovies.com/",
+        "ico": "/",
+        "des": "国产、美剧、国内外影视",
+        "tags": [ "视频" ],
+        "category": "视频影视"
+    },
+    {
         "name": "海兔影院",
         "url": "http://www.haitudy.com/",
         "ico": "/",
@@ -1412,6 +1460,14 @@
         "url": "https://data.stats.gov.cn/index.htm",
         "ico": "/",
         "des": "方便查询国家统计局数据库信息",
+        "tags": [ "政府网站" ],
+        "category": "政府网站"
+    },
+    {
+        "name": "国家标准全文公开",
+        "url": "http://www.gb688.cn/bzgk/gb/index",
+        "ico": "/",
+        "des": "版权所有：中国国家标准化管理委员会; 网站技术支持：国家市场监督管理总局国家标准技术审评中心",
         "tags": [ "政府网站" ],
         "category": "政府网站"
     },
@@ -1632,14 +1688,6 @@
         "category": "科技资讯"
     },
     {
-        "name": "亦是美网络",
-        "url": "http://www.yishimei.cn/",
-        "ico": "/",
-        "des": "亦是美网络 - 致力于操作系统应用与计算机网络技术的IT网站",
-        "tags": [ "博客", "软件下载" ],
-        "category": "软件工具"
-    },
-    {
         "name": "Firefox中文社区",
         "url": "https://www.firefox.net.cn/",
         "ico": "/",
@@ -1792,6 +1840,38 @@
         "category": "论坛社区"
     },
     {
+        "name": "openSUSE 中文",
+        "url": "https://forum.suse.org.cn/",
+        "ico": "/",
+        "des": "openSUSE 中文爱好者之家",
+        "tags": [ "论坛", "Linux" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "中科大Linux协会",
+        "url": "https://lug.ustc.edu.cn/",
+        "ico": "/",
+        "des": "中国科学技术大学 Linux 用户协会",
+        "tags": [ "社区", "Linux" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "影子论坛",
+        "url": "https://shadowq.com/forum.php",
+        "ico": "/",
+        "des": "windows, app 软件资源分享, 一些在线工具讨论",
+        "tags": [ "资源分享" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "萝卜头IT论坛",
+        "url": "https://shadowq.com/forum.php",
+        "ico": "/",
+        "des": "大众化的电脑知识交流论坛, 主要是系统、PE、简单硬件方面内容",
+        "tags": [ "IT论坛" ],
+        "category": "论坛社区"
+    },
+    {
         "name": "远景论坛",
         "url": "http://www.pcbeta.com/news/",
         "ico": "/",
@@ -1813,7 +1893,7 @@
         "ico": "/",
         "des": "果壳 科技有意思,提供负责任的科学、科技主题内容",
         "tags": [ "新闻" ],
-        "category": "软件工具"
+        "category": "科技资讯"
     },
     {
         "name": "黑马程序员官网",
@@ -1864,14 +1944,6 @@
         "category": "科技资讯"
     },
     {
-        "name": "openSUSE 中文",
-        "url": "https://forum.suse.org.cn/",
-        "ico": "/",
-        "des": "openSUSE 中文爱好者之家",
-        "tags": [ "论坛", "Linux" ],
-        "category": "论坛社区"
-    },
-    {
         "name": "薄荷开源网",
         "url": "http://www.mintos.org/",
         "ico": "/",
@@ -1902,14 +1974,6 @@
         "des": "个人博客",
         "tags": [ "博客", "Linux" ],
         "category": "个人博客"
-    },
-    {
-        "name": "中科大Linux协会",
-        "url": "https://lug.ustc.edu.cn/",
-        "ico": "/",
-        "des": "中国科学技术大学 Linux 用户协会",
-        "tags": [ "社区", "Linux" ],
-        "category": "论坛社区"
     },
     {
         "name": "pc6a学习分享",
@@ -2214,14 +2278,6 @@
         "des": "中文成人手機娛樂網站 提供免費在線 高畫質成人影片",
         "tags": [ "成人" ],
         "category": "成人资源"
-    },
-    {
-        "name": "影子论坛",
-        "url": "https://shadowq.com/forum.php",
-        "ico": "/",
-        "des": "windows, app 软件资源分享, 一些在线工具讨论",
-        "tags": [ "资源分享" ],
-        "category": "论坛社区"
     },
     {
         "name": "搜索开源项目",
