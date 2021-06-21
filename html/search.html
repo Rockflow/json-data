@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+    <head>
+          <title>内容搜索</title>
+
+		  <!--声明当前页面的编码集：charset=gbk,gb2312(中文编码),utf-8(国际编码)-->
+		  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+          <meta name="keywords" content="关键词，关键词">
+          <meta name="description"  content"">
+
+		  <!--css/js-->
+		  <style type="text/css">
+		  		body { background-color: #28290b80; }
+				#main{
+					width:80%;
+					margin:20px auto;
+				}
+				#main p{
+					text-align:center;
+					font-size:25px;
+					font-weight:bold;
+					margin-button:100px;
+				}
+			</style>
+    </head>
+ <body>
+	<div id="main">
+	<p>
+	内容搜索
+	</p>
+	<script>
+	  (function() {
+		<!-- google.load('search', '1', {language : 'zh-CN' , "nocss" : true }); -->
+		var cx = '002708831297611944370:vzuq4powkme';
+		var gcse = document.createElement('script');
+		gcse.type = 'text/javascript';
+		gcse.async = true;
+		gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(gcse, s);
+	  })();
+	</script>
+	<gcse:search></gcse:search>
+	</div>
+ </body>
+</html>

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>导向</title>
+    <link rel="shortcut icon" href="common/img/logo.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="common/css/index.css">
+</head>
+
+<body>
+    <script src="common/js/jquery-3.1.0.min.js"></script>
+    <script src="common/js/laytpl.js"></script>
+    <script src="common/js/index.js"></script>
+
+    <script id="demo" type="text/html">
+    {{# for(var i = 0,len = d.length; i <len;i++){ }}
+    <div class="row">
+        <div class="tit">
+            {{ d[i].tit }}
+        </div>
+        <div class="list">
+            {{# for(var j = 0,len1 = d[i].list.length; j <len1;j++){ }}
+            <div class="block">
+                <!--<img src="https://api.byi.pw/favicon/?url={{ d[i].list[j].url }}" />-->
+                <!--<a href={{ d[i].list[j].url }} target="_blank" rel="noopener" >-->
+                <a href={{ d[i].list[j].url }} rel="noopener" title={{ d[i].list[j].des }}>
+                    {{ d[i].list[j].name }}
+                </a>
+            </div>
+            {{# } }}
+        </div>
+    </div>
+        {{# } }}
+    </script>
+
+    <div class="con">
+
+        <div class="head">
+            <img src="common/img/favicon.ico" alt="now" type="button" onmousedown="gotoWebStack()" onmouseup="holdUp()" value="鼠标长按">
+            <span type="button" onmousedown="gotoSearch()" onmouseup="holdUp()" value="鼠标长按"/>网址收集</span>
+
+        </div>
+        <div id="view">
+            <!-- 动态设置网址内容 -->
+        </div>
+
+        <footer id="footer" style="font-size: 11px;">
+            Copyright © 2017 All Rights Created by stone.<br>
+            <a href="search.html" style="font-size: 11px; color:rgb(102, 102, 102); text-decoration: none;"></a>This template from<a
+                href="https://github.com/f12998765/SpeedDial" style="font-size: 10px;color:rgb(102, 102, 102); text-decoration: none;">@XiZero.</a>
+        </footer>
+    </div>
+    <!-- 长按网址收集 跳转到 webstack.html -->
+    <script type="text/javascript">
+        //申明全局变量
+        var timeStart, timeEnd, time;
+
+        //获取此刻时间
+        function getTimeNow() {
+            var now = new Date();
+            return now.getTime();
+        }
+
+        //鼠标按下时触发
+        function gotoWebStack() {
+            //获取鼠标按下时的时间
+            timeStart = getTimeNow();
+
+            //setInterval会每100毫秒执行一次，也就是每100毫秒获取一次时间
+            time = setInterval(function () {
+                timeEnd = getTimeNow();
+
+                //如果此时检测到的时间与第一次获取的时间差有1000毫秒
+                if (timeEnd - timeStart > 2000) {
+                    //便不再继续重复此函数 （clearInterval取消周期性执行）
+                    clearInterval(time);
+                    //字体变红
+                    window.location.href='webstack.html';
+                }
+            }, 100);
+        }
+        function gotoSearch() {
+            //获取鼠标按下时的时间
+            timeStart = getTimeNow();
+
+            //setInterval会每100毫秒执行一次，也就是每100毫秒获取一次时间
+            time = setInterval(function () {
+                timeEnd = getTimeNow();
+
+                //如果此时检测到的时间与第一次获取的时间差有1000毫秒
+                if (timeEnd - timeStart > 1500) {
+                    //便不再继续重复此函数 （clearInterval取消周期性执行）
+                    clearInterval(time);
+                    //字体变红
+                    window.location.href='search.html';
+                }
+            }, 100);
+        }
+        function holdUp() {
+            //如果按下时间不到1000毫秒便弹起，
+            clearInterval(time);
+        }
+    </script>
+</body>
+
+</html>

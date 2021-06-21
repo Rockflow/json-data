@@ -1,0 +1,48 @@
+<!-- <h4 class="text-gray"><i class="icon-star" style="margin-right: 7px;" id="实用软件"></i>实用软件</h4>
+<div class="row">
+    <div class="col-sm-3">
+        <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('sina.cn', '_blank')" data-toggle="tooltip" title="sina.cn">
+            <div class="xe-comment-entry">
+                <a class="xe-user-img">
+                    <img data-src="https://www.icohotlist.com/wp-content/themes/mediaani-framework/assets/images/logo-icohotlist.svg" class="lozad img-circle" width="40">
+                </a>
+                <div class="xe-comment">
+                    <a href="#" class="xe-user-name overflowClip_1">
+                        <strong>新浪</strong>
+                    </a>
+                    <p class="overflowClip_2">新浪是一个垃圾网站</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br /> -->
+
+<% dataJson.forEach(key => { %>
+    <% key.categories.forEach(category => { %>
+        <h4 class="text-gray"><i class="icon-tag" style="margin-right: 7px;" id="<%= category %>"></i><%= category %></h4>
+        <div class="row">
+            <% key.sites.forEach(item => { %>
+                <% if(item.category == category){ %>
+                    <div class="col-sm-3">
+                        <!-- <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('<%= item.url %>', '_blank')" data-toggle="tooltip" title="<%= item.url %>"> 与下面a标签点击冲突-->
+                        <div class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" title="<%= item.url %>">
+                            <div class="xe-comment-entry">
+                                <a class="xe-user-img">
+                                    <img <% if (item.ico) { %> data-src="<%= item.ico %>" <% } else { %> avatar="<%= item.name %>" <% }; %> class="lozad img-circle" width="40">
+                                </a>
+                                <div class="xe-comment">
+                                    <a href="<%= item.url %>" target="_blank" class="xe-user-name overflowClip_1">
+                                        <strong><%= item.name %></strong>
+                                    </a>
+                                    <p class="overflowClip_2"><%= item.des %></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <% } %>
+            <% }) %>
+        </div>
+        <br />
+    <% }) %>
+<% }) %>

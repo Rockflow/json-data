@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <title>开发相关</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!--<link href="css/style.css" rel="stylesheet">-->
+
+<style>
+    body{ background-color:#393939}
+    .content{width: 60%; margin: 0 auto;}
+    a{text-decoration: none;color: #098994; font-size: 18px;}
+    a:hover{background: #121212;}
+
+    .head{ width:100%;height: 100px; background-color: #313131; }
+    .head h2{text-align: center; line-height: 100px; color: #c5c5c5}
+    .mid h3{color: #c5c5c5;margin-left: -40px;margin-bottom: 1px;}
+</style>
+    </head>
+    <body>
+    <div class="content">
+        <div class="head">
+            <h2>Unity、UE4开发相关</h2>
+        </div>
+        <div class="mid">
+			<ul><h3>资讯站点</h3>
+                <li><a href="http://vr.99.com/">99VR视界</a></li>
+                <li><a href="http://www.arinchina.com/">ARinChina</a></li>
+                <li><a href="http://www.87870.com/">87870</a></li>
+            </ul>
+            <ul><h3>博客站点</h3>
+                <li><a href="https://wiki.unrealengine.com/Main_Page">Unreal Engine Community Wiki</a></li>
+                <li><a href="https://www.unrealengine.com/zh-CN/enterprise/blog">Unreal Engine _ Blog</a></li>
+                <li><a href="http://blog.csdn.net/zhangdi2017">ZhangDi2017的博客(支付宝sdk接入)</a></li>
+				<li><a href="http://levelpp.com/">皮皮关</a></li>
+            </ul>
+            <ul><h3>建模</h3>
+                <li><a href="http://bbs.blendercn.org/forum.php">斑斓中国BlenderCN</a></li>
+                <li><a href="http://iiidea.cn/">爱创意</a></li>
+                <li><a href="https://github.com/shadowsocks">ShadowSocks</a></li>
+                <li><a href="https://github.com/shadowsocksr">ShadowsocksR</a></li>
+            </ul>
+			<ul><h3>脚本收集</h3>
+				<li><a href="https://github.com/michidk/Unity-Script-Collection">Unity-Script-Collection</a></li>
+			</ul>
+			<ul><h3>插件</h3>
+                <li><a href="https://forums.unrealengine.com/development-discussion/vr-ar-development">VR Expansion Plugin</a></li>
+                <li><a href="https://github.com/1runeberg/RunebergVRPlugin">RunebergVRPlugin</a></li>
+            </ul>
+			<ul><h3>YouTuBe</h3>
+                <li><a href="https://www.youtube.com/playlist?list=PL4FII4B-zM0c70plZUONo_0xYxVfJmGYK&pbjreload=10">VR Funhouse Mod Kit Tutorials</a></li>
+            </ul>
+			<ul><h3>Unity Git 配置</h3>
+                <li><a href="http://kuanghy.github.io/2017/03/19/git-lf-or-crlf">Git 多平台换行符问题(LF or CRLF)</a></li>
+				<li><a href="https://blog.csdn.net/oyji1992/article/details/73718047">Unity使用Git的行尾设置</a></li>
+				<li><a href="https://github.com/stella3d/job-system-cookbook/issues/3">Case sensitive file system</a></li>
+			</ul>
+			<ul><h3 onclick = "f('hide1')">行尾设置</h3>
+				<p id = "hide1">
+					1. # 提交检出均不转换 git config --global core.autocrlf false	<br>
+					2. # 允许提交包含混合换行符的文件 git config --global core.safecrlf false <br>
+					3. 新建 .gitattributes <br>
+						# 所有文件去除文本功能 <br>
+						* -text					<br>
+						# 代码文件设置自动行尾转换，并统一使用crlf作为行尾 <br>
+						*.cs text eol=crlf</p>
+				</p>
+			</ul>
+			<ul><h3 onclick = "f('hide2')">case sensitive</h3>
+				<p id = "hide2">
+					1. Delete cloning repo. <br>
+					2. Open PowerShell{Admin}, create new folder and go there <br>
+					3. Check folder on Case sensitive file system:	<br>
+					fsutil.exe file queryCaseSensitiveInfo C:\my folder <br>
+					IF "Case sensitive attribute on directory C:\my folder is disabled" <br>
+					THEN go to step 4 <br>
+					ELSE you need manualy change all files in cloning repo with command: <br>
+					fsutil.exe file setCaseSensitiveInfo C:\folder\filename disable <br>
+					4. Clone repo in new folder <br>
+					5. Profit</p>
+				</p>
+					
+            </ul>
+		</div>
+    </div>
+		<script type="text/javascript">
+			function f(str){
+                var sub_menu = document.getElementById(str);
+                var dis_v = sub_menu.style.display;
+                
+                if(dis_v == "none")
+                    sub_menu.style.display = "block";
+                else
+                    sub_menu.style.display = "none";   
+            };
+		</script>
+    </body>
+</html>
