@@ -1472,6 +1472,14 @@
         "category": "政府网站"
     },
     {
+        "name": "中国人民银行征信",
+        "url": "http://www.pbccrc.org.cn/",
+        "ico": "/",
+        "des": "负责企业和个人征信系统",
+        "tags": [ "政府网站" ],
+        "category": "政府网站"
+    },
+    {
         "name": "IP atdress",
         "url": "https://whoer.net/",
         "ico": "/",
