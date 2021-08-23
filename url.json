@@ -265,6 +265,11 @@
                 "des": ""
               },
               {
+                "name": "GitHunt",
+                "url": "http://kamranahmed.info/githunt/",
+                "des": ""
+              },
+              {
                 "name": "中文排行榜",
                 "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
                 "des": ""
@@ -333,6 +338,11 @@
               {
                 "name": "PTT数位生活",
                 "url": "https://pttdigits.com/hot",
+                "des": ""
+              },
+              {
+                "name": "PTT网页版",
+                "url": "https://www.pttweb.cc/",
                 "des": ""
               },
               {
