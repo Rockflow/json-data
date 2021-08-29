@@ -563,6 +563,11 @@
                 "name": "在线工具",
                 "url": "https://tool.oschina.net/",
                 "des": "开源中国在线工具"
+              },
+              {
+                "name": "X-Icon Editor",
+                "url": "http://www.xiconeditor.com/",
+                "des": "ICO 在线编辑器"
               }
           ]
   }
