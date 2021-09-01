@@ -272,6 +272,14 @@
         "category": "编程教程"
     },
     {
+        "name": "知末网问答",
+        "url": "https://ask.znzmo.com/question.html",
+        "ico": "/",
+        "des": "专业的设计软装问答社区",
+        "tags": [ "问答" ],
+        "category": "问答平台"
+    },
+    {
         "name": "CTOLib码库",
         "url": "https://www.ctolib.com/",
         "ico": "/",
@@ -1892,6 +1900,14 @@
         "url": "https://shadowq.com/forum.php",
         "ico": "/",
         "des": "大众化的电脑知识交流论坛, 主要是系统、PE、简单硬件方面内容",
+        "tags": [ "IT论坛" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "哇酷开发者社区",
+        "url": "https://whycan.com/index.html",
+        "ico": "/",
+        "des": "已开发板，嵌入式硬件相关社区",
         "tags": [ "IT论坛" ],
         "category": "论坛社区"
     },
