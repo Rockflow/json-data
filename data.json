@@ -48,6 +48,14 @@
         "category": "网站导航"
     },
     {
+        "name": "Guidebook",
+        "url": "https://nav.guidebook.top/",
+        "ico": "/",
+        "des": "Guidebook _ 让工作学习生活更高效",
+        "tags": [ "网站导航" ],
+        "category": "网站导航"
+    },
+    {
         "name": "爱主页",
         "url": "https://www.i-i.me/",
         "ico": "/",
@@ -557,6 +565,14 @@
         "ico": "/",
         "des": "Aneeo Blog – 何以解忧，唯有暴富！",
         "tags": [ "博客", "软件下载", "福利" ],
+        "category": "个人博客"
+    },
+    {
+        "name": "当然我在扯淡",
+        "url": "http://www.yinwang.org/",
+        "ico": "/",
+        "des": "王垠 的博客，好像挺有名的",
+        "tags": [ "博客" ],
         "category": "个人博客"
     },
     {
@@ -1608,14 +1624,6 @@
         "category": "在线工具"
     },
     {
-        "name": "在线文字识别",
-        "url": "https://ocr.wdku.net/",
-        "ico": "/",
-        "des": "免费的文字在线识别工具 - 可保留原始格式，提供图像文字识别，提取图片文字，pdf文字识别，扫描文件识别服务、pdf转Word文档服务等",
-        "tags": [ "工具" ],
-        "category": "在线工具"
-    },
-    {
         "name": "爱站网",
         "url": "https://www.aizhan.com/",
         "ico": "/",
@@ -1648,12 +1656,36 @@
         "category": "在线工具"
     },
     {
+        "name": "XPath online",
+        "url": "http://xpather.com/",
+        "ico": "/",
+        "des": "XPath 在线编辑工具，实时预览",
+        "tags": [ "xpath" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "QuickType",
+        "url": "https://quicktype.io/",
+        "ico": "/",
+        "des": "转换 JSON to Swift, C#, TypeScript, Objective-C, Go, Java, C++ and more",
+        "tags": [ "xpath" ],
+        "category": "在线工具"
+    },
+    {
+        "name": "Microsoft Store",
+        "url": "https://store.rg-adguard.net/",
+        "ico": "/",
+        "des": "Microsoft Store 离线下载安装包",
+        "tags": [ "商店" ],
+        "category": "Apk/Chrome"
+    },
+    {
         "name": "APKMirror",
         "url": "https://www.apkmirror.com/",
         "ico": "/",
         "des": "APKMirror - Free APK Downloads",
         "tags": [ "APK" ],
-        "category": "在线工具"
+        "category": "Apk/Chrome"
     },
     {
         "name": "APKPure",
@@ -1661,7 +1693,7 @@
         "ico": "/",
         "des": "使用APKPure APK下载器在线极速下载原版应用",
         "tags": [ "APK" ],
-        "category": "在线工具"
+        "category": "Apk/Chrome"
     },
     {
         "name": "APKCombo",
@@ -1669,7 +1701,7 @@
         "ico": "/",
         "des": "APKCombo_ ⚡ 下载最新完整包",
         "tags": [ "APK" ],
-        "category": "在线工具"
+        "category": "Apk/Chrome"
     },
     {
         "name": "Chrome扩展下载",
@@ -1677,7 +1709,7 @@
         "ico": "/",
         "des": "Chrome扩展下载",
         "tags": [ "CRX" ],
-        "category": "在线工具"
+        "category": "Apk/Chrome"
     },
     {
         "name": "Crx4Chrome",
@@ -1685,7 +1717,7 @@
         "ico": "/",
         "des": "Chrome扩展下载",
         "tags": [ "CRX" ],
-        "category": "在线工具"
+        "category": "Apk/Chrome"
     },
     {
         "name": "腾讯云大学",
@@ -1913,11 +1945,35 @@
     },
     {
         "name": "远景论坛",
-        "url": "http://www.pcbeta.com/news/",
+        "url": "https://bbs.pcbeta.com/forum.php",
         "ico": "/",
-        "des": "新闻资讯 - 远景论坛",
-        "tags": [ "资讯" ],
-        "category": "科技资讯"
+        "des": "远景论坛",
+        "tags": [ "IT论坛" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "CSDN社区",
+        "url": "https://www.csdn.net/c/",
+        "ico": "/",
+        "des": "CSDN的问答论坛",
+        "tags": [ "IT论坛" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "wvbCommunity",
+        "url": "https://community.wvbtech.com/",
+        "ico": "/",
+        "des": "软件相关论坛",
+        "tags": [ "IT论坛" ],
+        "category": "论坛社区"
+    },
+    {
+        "name": "Go语言中文社区",
+        "url": "https://mlog.club/topics",
+        "ico": "/",
+        "des": "码农俱乐部 - Golang中国",
+        "tags": [ "IT论坛" ],
+        "category": "论坛社区"
     },
     {
         "name": "IT营",
@@ -2048,6 +2104,14 @@
         "category": "科技资讯"
     },
     {
+        "name": "面包芯语",
+        "url": "https://www.eet-china.com/mp",
+        "ico": "/",
+        "des": "面包芯语_发现电子世界新鲜事-面包板社区",
+        "tags": [ "社区" ],
+        "category": "科技资讯"
+    },
+    {
         "name": "草榴社区",
         "url": "https://www.t66y.com/",
         "ico": "/",
@@ -2153,7 +2217,7 @@
     },
     {
         "name": "JavFinder",
-        "url": "https://javfinder.sh",
+        "url": "https://javtrust.com/",
         "ico": "/",
         "des": "https://javfinder.la/",
         "tags": [ "成人" ],
