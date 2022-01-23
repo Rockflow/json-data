@@ -1288,6 +1288,14 @@
         "category": "视频影视"
     },
     {
+        "name": "鸭奈飞电影",
+        "url": "https://netflix.mom/",
+        "ico": "/",
+        "des": "国产、美剧、国内外影视 yanetflix.com netflix.mom netflixya.com 4kya.com kongbuya.com",
+        "tags": [ "视频" ],
+        "category": "视频影视"
+    },
+    {
         "name": "海兔影院",
         "url": "http://www.haitudy.com/",
         "ico": "/",
@@ -2155,7 +2163,7 @@
         "name": "第一会所",
         "url": "http://38.103.161.165/bbs/index.php",
         "ico": "/",
-        "des": "SiS001! Board",
+        "des": "SiS001! Board  154.84.5.228  154.84.5.229  154.84.5.235",
         "tags": [ "成人情报站" ],
         "category": "成人资源"
     },
