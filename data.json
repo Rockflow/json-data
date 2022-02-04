@@ -752,6 +752,14 @@
         "category": "软件工具"
     },
     {
+        "name": "Portapps.io",
+        "url": "https://portapps.io/apps/",
+        "ico": "/",
+        "des": "便携软件下载,开源",
+        "tags": [ "软件下载" ],
+        "category": "软件工具"
+    },
+    {
         "name": "剑客网",
         "url": "https://www.go176.net/",
         "ico": "/",
@@ -892,14 +900,6 @@
         "url": "https://www.weidown.com/",
         "ico": "/",
         "des": "软件下载",
-        "tags": [ "软件下载" ],
-        "category": "软件工具"
-    },
-    {
-        "name": "Portapps",
-        "url": "https://portapps.io/apps/",
-        "ico": "/",
-        "des": "便携软件下载",
         "tags": [ "软件下载" ],
         "category": "软件工具"
     },
@@ -1708,6 +1708,14 @@
         "url": "https://apkcombo.com/zh-us/",
         "ico": "/",
         "des": "APKCombo_ ⚡ 下载最新完整包",
+        "tags": [ "APK" ],
+        "category": "Apk/Chrome"
+    },
+    {
+        "name": "MODDROID.CO",
+        "url": "https://moddroid.co/",
+        "ico": "/",
+        "des": "已付费的apk",
         "tags": [ "APK" ],
         "category": "Apk/Chrome"
     },
